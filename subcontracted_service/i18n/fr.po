@@ -37,17 +37,17 @@ msgstr ""
 #: model:ir.model.fields,field_description:subcontracted_service.field_product_product_property_subcontracted_service
 #: model:ir.model.fields,field_description:subcontracted_service.field_product_template_property_subcontracted_service
 msgid "Subcontracted Service"
-msgstr ""
+msgstr "Service sous-traité"
 
 #. module: subcontracted_service
 #: model:ir.ui.view,arch_db:subcontracted_service.view_warehouse
 msgid "Subcontracting"
-msgstr ""
+msgstr "Sous-traitance"
 
 #. module: subcontracted_service
 #: model:ir.model.fields,field_description:subcontracted_service.field_stock_warehouse_subcontracting_service_proc_rule_id
 msgid "Subcontracting Service Procurement Rule"
-msgstr ""
+msgstr "Régle d'approvisionnement Service Sous-traité"
 
 #. module: subcontracted_service
 #: model:ir.model,name:subcontracted_service.model_stock_warehouse
